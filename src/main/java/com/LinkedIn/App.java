@@ -5,6 +5,6 @@ package com.LinkedIn;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("working in Linked In");
+       System.out.println("main method");
     }
 }
